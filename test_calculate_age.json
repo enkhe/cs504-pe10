@@ -1,0 +1,7 @@
+{
+  "queryStringParameters": {
+    "birth_year": "1991",
+    "birth_month": "02",
+    "birth_day": "25"
+  }
+}
